@@ -13,7 +13,7 @@ manifest:
       url: https://github.com/Farex-GH/zmk-sofle
       revision: main
     - name: sofle-animation
-      remote: Farex-GH
+      url: https://github.com/Farex-GH/sofle-animation
       revision: main 
     - name: zmk
       remote: zmkfirmware
